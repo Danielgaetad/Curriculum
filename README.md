@@ -1,1 +1,1 @@
-# Curriculum
+https://danielgaetad.github.io/Curriculum/
